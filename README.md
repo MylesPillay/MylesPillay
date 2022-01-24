@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I'm a junior front-end developer that loves working in React! I mainly have experience working with the following technologies:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -24,6 +22,7 @@ JS Calculator
 OAE-Event-Backend - this was a client project I worked on for Nology. I have created a repo highlighting what was acconplished in my area of the sprint. 
 
 
-I am currently looking for an employer with a focus on React in their codestack as this is an area  where I feel I'll excel :computer:.
+I am currently looking for an employer with a focus on React in their codestack as this is an area  where I feel I'll excel :computer:. If you would like to contact me please use the link below, or find me on LinkedIn! :)
+https://www.linkedin.com/in/myles-pillay-361868123/
 
 When I'm not coding I'm usually writing music with my band Plastic Terras ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white), unnecessarily cooking something overly complicated :man_cook:, or just enjoying some down time on the sofa :tv:.
