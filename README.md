@@ -17,7 +17,7 @@ Brewdog Beers API
 
 Connect-4 in JS
 
-JS Calculator
+<a href="https://github.com/MylesPillay/Calculator" title="" style="color:#1a0dab;font-size:14px;" >JS Calculator</a>
 
 
 OAE-Event-Backend - this was a client project I worked on for Nology. I have created a repo highlighting what was acconplished in my area of the sprint. 
