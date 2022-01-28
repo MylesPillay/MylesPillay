@@ -13,7 +13,7 @@ An English to Morse Code Translator
 
 A Ticket-Counter Gallery
 
-<a href="https://mylespillay.github.io/Punk-API/" title="" style="color:#1a0dab;font-size:14px;" >Brewdog API</a>
+<a href="https://github.com/MylesPillay/Punk-API" title="" style="color:#1a0dab;font-size:14px;" >Punk-IPA API</a>
 
 Connect-4 in JS
 
