@@ -24,6 +24,6 @@ OAE-Event-Backend - this was a client project I worked on for Nology. I have cre
 
 
 I am currently looking for an employer with a focus on React in their codestack as this is an area  where I feel I'll excel :computer:. If you would like to contact me please use the link below, or find me on LinkedIn! :)
-https://www.linkedin.com/in/myles-pillay-361868123/
+<a href="https://www.linkedin.com/in/myles-pillay-361868123/" title="" style="color:#1a0dab;font-size:14px;" >My LinkedIn</a>
 
 When I'm not coding I'm usually writing music with my band Plastic Terras ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white), unnecessarily cooking something overly complicated :man_cook:, or just enjoying some down time on the sofa :tv:.
