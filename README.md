@@ -9,7 +9,7 @@ I'm a junior front-end developer that loves working in React! I mainly have expe
 
 I like to focus on writing clean, dry code and creating authentic user-friendly layouts. :grin: Here are some of the projects I've created so far!
 
-An English to Morse Code Translator 
+<a href="https://github.com/MylesPillay/Morse-Code-Translator" title="" style="color:#1a0dab;font-size:14px;" >More-Code Translator</a>
 
 <a href="https://github.com/MylesPillay/Ticket-Tracker/blob/main/README.md" title="" style="color:#1a0dab;font-size:14px;" >Employee Ticket Counter</a>
 
