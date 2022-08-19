@@ -15,8 +15,6 @@ I like to focus on writing clean, dry code and creating authentic user-friendly 
 
 <a href="https://github.com/MylesPillay/Punk-API" title="" style="color:#1a0dab;font-size:14px;" >Punk-IPA API</a>
 
-Connect-4 in JS
-
 <a href="https://github.com/MylesPillay/Calculator" title="" style="color:#1a0dab;font-size:14px;" >JS Calculator</a>
 
 
