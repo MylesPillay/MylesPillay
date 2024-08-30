@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-  I'm a Full Stack Dev thatloves working in Javascript based such as React, Typescript, Node and Next.Js - and absolutely LOVE wortking in React Native.
+  I'm a Full Stack Dev that loves working in Javascript based such as React, Typescript, Node and Next.Js - and absolutely LOVE working in React Native.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-I like to focus on writing clean, dry code and creating authentic user-friendly layouts.  Here is a link to my portfolio website displaying some of my proects ad work experience!
+I like to focus on writing clean, dry code and creating authentic user-friendly layouts.  Here is a link to my portfolio website displaying some of my proects and work experience!
 
 <a href="https://github.com/MylesPillay/Morse-Code-Translator" title="" style="color:#1a0dab;font-size:14px;" >More-Code Translator</a>
 
