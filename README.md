@@ -1,14 +1,25 @@
 ### Hi there 👋
 
-  I'm a Full Stack Dev that loves working in Javascript based such as React, Typescript, Node and Next.Js - and absolutely LOVE working in React Native.
+I'm a **Full Stack Developer** who loves building modern web and mobile applications using **JavaScript and TypeScript**, particularly with **React, React Native, Node, and Next.js**.
 
-I like to focus on writing clean, dry code and creating authentic user-friendly layouts.  Here is a link to my portfolio website displaying some of my projects and work experience!
+I enjoy writing **clean, maintainable code** and creating intuitive, user-friendly interfaces. Much of my work focuses on building **data-driven applications and complex UI workflows** that solve real-world problems.
 
-<a href="https://mpillaydev-portfolio.vercel.app/" title="" style="color:#1a0dab;font-size:14px;" >My Portfolio</a>
+I’m currently working as a **Frontend Developer at Breedr**, contributing to the development of web and mobile tools that help farmers track livestock performance, manage treatments, and digitise farm operations.
 
-I was recently made redundant following 2 and half years in my first role in the tech industry and am currently on the look out for the right project and team to continue on my web development journey. To keep me busy during my free time between jobs I have been building a multi-genre song reccomendations mobile app that I've wanted to get under way for a while. I'm very pleased with how devlopment is going and you can see it's progress on my portfolio website. I am close to the physical devices testing phase and hopefully will be releasing it on Google Play Store and Apple App Store in the next coming weeks! WATCH THIS SPACE! :grin: 
+You can see more of my work and projects here:
 
-I am currently looking for an employer with a focus on REACT / REACT NATIVE / NEXT / TYPESCRIPT in their codestack as this is an area I have excelled in and am extremely passionate about. :computer:. If you would like to contact me please use the link below, or find me on LinkedIn! :)
-<a href="https://www.linkedin.com/in/myles-pillay-361868123/" title="" style="color:#1a0dab;font-size:14px;" >My LinkedIn</a>
+<a href="https://mpillaydev-portfolio.vercel.app/" title="Portfolio" style="color:#1a0dab;font-size:14px;">My Portfolio</a>
 
-When I'm not coding I'm usually writing music with my band Plastic Terras ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white), unnecessarily cooking something overly complicated :man_cook:, or whe I'm lucky enough firing up the PS4 every once in a blue moon! :moon:
+Alongside my professional work, I enjoy building personal projects. I'm currently developing a **multi-genre song recommendation mobile app** that I've wanted to build for a while. Development has been progressing really well and the project is approaching the **physical device testing phase**, with the aim of releasing on the **Google Play Store and Apple App Store** soon — watch this space! 😁
+
+### Tech I enjoy working with
+React • React Native • TypeScript • JavaScript • Next.js • Node.js
+
+If you'd like to connect or collaborate, feel free to reach out below:
+
+<a href="https://www.linkedin.com/in/myles-pillay-361868123/" title="LinkedIn" style="color:#1a0dab;font-size:14px;">My LinkedIn</a>
+
+When I'm not coding you'll usually find me **writing music with my band Plastic Terras**  
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+Or unnecessarily cooking something unnecessarily complex 👨‍🍳, & once in a blue moon reliving my Gameboy childhood on the Switch. 
